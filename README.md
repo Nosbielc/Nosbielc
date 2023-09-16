@@ -18,6 +18,7 @@
   <img align="center" alt="Nosbielc-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Nosbielc-android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Nosbielc-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Nosbielc-Unity3d" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
  <!---<img align="right" style="display: none;" alt="Nosbielc-yoda" src="link cdn do gif">-->
 </div>
   
